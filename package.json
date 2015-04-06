@@ -1,0 +1,16 @@
+{
+  "name": "tsv-i18n-loader",
+  "version": "1.0.0",
+  "description": "a i18n strings loader from tsv for webpack built",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "webpack",
+    "tsv"
+  ],
+  "author": "Eugene Molchanov",
+  "license": "MIT"
+}
