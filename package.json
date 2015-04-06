@@ -12,5 +12,8 @@
     "tsv"
   ],
   "author": "Eugene Molchanov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tsv-i18n": "1.0.0"
+  }
 }
